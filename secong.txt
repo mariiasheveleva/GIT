@@ -3,7 +3,5 @@ using namespace std;
 
 int main(){
 
-cout << "Hello!";
-cout << "Yes";
-cout << "Helllloooooo"
+cout << "NYEEE";
 }
