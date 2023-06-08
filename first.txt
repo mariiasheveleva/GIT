@@ -2,9 +2,13 @@
 using namespace std;
 
 int main(){
-cout << "conflict";";
-cout << "conflict";
+
+
 cout << "conflict";
 cout << "Yes";
+
 cout << "conflict";
+
+cout << "Helllloooooo"
+
 }
